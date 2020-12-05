@@ -1,4 +1,5 @@
-﻿using Datamvc.Models;
+﻿using Datamvc.Data;
+using Datamvc.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
